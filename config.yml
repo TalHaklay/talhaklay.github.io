@@ -22,7 +22,7 @@ menu:
   
 
 params:
-    description:  "I am a Ph.D. student at the NLP Research Lab in the Computer Science Faculty at the Technion, under the supervision of Yonatan Belinkov. My research focuses on the interpretability of large language models, exploring their underlying mechanisms to improve our understanding of their inner workings. I am particularly interested in developing interpretability techniques that provide deeper insights into these models, ultimately enhancing their performance and reliability.
+    description:  "I am a Ph.D. student at the NLP research lab, in the Computer Science Faculty at the Technion, under the supervision of <a href='https://belinkov.com/' style='color: #0066cc; text-decoration: underline; font-weight: bold;'>Yonatan Belinkov</a>. My research focuses on the interpretability of large language models.\n\n\n I enjoy meeting new people—feel free to reach out to me!"
     
    I enjoy meeting new people—feel free to reach out to me!"
     author: Tal haklay
@@ -50,7 +50,7 @@ params:
     profileMode:
           enabled: true
           title: Tal Haklay
-          subtitle: "I am a Ph.D. student at the NLP research lab, in the Computer Science Faculty at the Technion, under the supervision of <a href='https://belinkov.com/' style='color: #0066cc; text-decoration: underline; font-weight: bold;'>Yonatan Belinkov</a>. My research focuses on the interpretability of large language models, exploring their underlying mechanisms to improve our understanding of their inner workings, and ultimately enhancing their performance and reliability.\n\n\n I enjoy meeting new people—feel free to reach out to me!"
+          subtitle: "I am a Ph.D. student at the NLP research lab, in the Computer Science Faculty at the Technion, under the supervision of <a href='https://belinkov.com/' style='color: #0066cc; text-decoration: underline; font-weight: bold;'>Yonatan Belinkov</a>. My research focuses on the interpretability of large language models.\n\n\n I enjoy meeting new people—feel free to reach out to me!"
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
