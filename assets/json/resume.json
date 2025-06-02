@@ -1,3 +1,15 @@
 {
-
+  "General": {
+    "name": "Tal Haklay",
+    "image": "",
+    "email": "talhaklay535@gmail.com",
+    "url": "https://talhaklay.github.io",
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "Tal haklay",
+        "url": "https://x.com/tal_haklay"
+      }
+    ]
+  }
 }
