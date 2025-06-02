@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
+    <!-- <p>555 your office number</p>
     <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Your City, State 12345</p>-->
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -33,6 +33,6 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am a PhD student in the Computer Science Faculty at the Technion, advised by Yonatan Belinkov. My research focuses on the interpretability of large language models. I am particularly interested in developing interpretability methods that support scalable analysis and apply to real-world settings
+I am a PhD student in the Computer Science Faculty at the Technion, advised by Yonatan Belinkov. My research focuses on the interpretability of large language models. I am particularly interested in developing interpretability methods that support scalable analysis and apply to real-world settings.
 
 In my free time, I enjoy reading, cooking, and traveling. I also love meeting new people — feel free to reach out!
