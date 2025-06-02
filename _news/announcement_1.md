@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-06-02 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our paper Position-aware Automatic Circuit Discovery, has been accepted to ACL 2025 (Main Conference)! See you in Vienna!
