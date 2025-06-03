@@ -1,7 +1,6 @@
 # this file contains the social media links and usernames of the author
 # the commented lines are the default social media links supported by the template
 # the socials will be displayed in the order they are defined here
-
 # acm_id: # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
 # bluesky_url: # your bluesky URL
@@ -20,7 +19,7 @@ email: tal.ha@campus.technion.ac.il # your email address
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
- linkedin_username: 501032192 # your LinkedIn user name
+linkedin_username: 501032192 # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 # orcid_id: # your ORCID ID
@@ -42,7 +41,7 @@ scholar_userid: oRPEEWIAAAAJ # your Google Scholar ID
 # wikidata_id: # your wikidata id
 # wikipedia_id: # your wikipedia id (Case sensitive)
 # work_url: # work page URL
- x_username: tal_haklay # your X handle
+x_username: tal_haklay # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 #custom_social: # can be any name here other than the ones already defined above
