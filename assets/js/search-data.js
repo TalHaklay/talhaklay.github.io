@@ -391,8 +391,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-position-aware-automatic-circuit-discovery-has-been-accepted-to-acl-2025-main-conference-see-you-in-vienna",
-          title: 'Our paper Position-aware Automatic Circuit Discovery, has been accepted to ACL 2025 (Main...',
+            },},{id: "news-our-paper-position-aware-automatic-circuit-discovery-has-been-accepted-as-an-oral-presentation-at-acl-2025-main-conference-see-you-in-vienna",
+          title: 'Our paper Position-aware Automatic Circuit Discovery has been accepted as an oral presentation...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
